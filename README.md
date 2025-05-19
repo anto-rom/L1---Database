@@ -1,4 +1,4 @@
-README - PostgreSQL Database Schema: Planet
+README - PostgreSQL Database Schema: P
 ===========================================
 
 Purpose:
